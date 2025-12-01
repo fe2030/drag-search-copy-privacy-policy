@@ -1,1 +1,1 @@
-# drag-search-copy-privacy-policy
+# Chrome拡張機能のDrag search&copyのプライバシーポリシー
